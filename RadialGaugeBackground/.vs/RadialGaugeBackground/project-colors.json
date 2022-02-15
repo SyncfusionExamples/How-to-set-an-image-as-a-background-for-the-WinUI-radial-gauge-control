@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7cebe994-98e5-4590-a2cc-74b3d865d761": {
+      "ProjectGuid": "7cebe994-98e5-4590-a2cc-74b3d865d761",
+      "DisplayName": "RadialGaugeBackground (Package)",
+      "ColorIndex": 0
+    },
+    "5e8c3d19-fc99-492c-a6a5-f72273301bec": {
+      "ProjectGuid": "5e8c3d19-fc99-492c-a6a5-f72273301bec",
+      "DisplayName": "RadialGaugeBackground",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
