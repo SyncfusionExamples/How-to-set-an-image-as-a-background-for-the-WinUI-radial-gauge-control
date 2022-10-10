@@ -1,6 +1,6 @@
 # How to set an image as a background for the WinUI Radial Gauge control			
 
-This repository contains sample for how to set an image as a background for the [Syncfusion WinUi Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
+This repository contains sample to set an image as a background for the [Syncfusion WinUi Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
 
 ## Syncfuion control(s)
 
