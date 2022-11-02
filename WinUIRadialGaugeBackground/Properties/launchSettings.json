@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIRadialGaugeBackground (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIRadialGaugeBackground (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
